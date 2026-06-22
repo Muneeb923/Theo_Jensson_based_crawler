@@ -27,7 +27,7 @@ To analyze the mechanics before physical fabrication, motion studies were conduc
 
 | Single Linkage Path | Two Legs Coordinating | Effect of Altering Ratios |
 | :---: | :---: | :---: |
-| <video src="https://raw.githubusercontent.com/Muneeb923/Theo_Jensson_based_crawler/refs/heads/main/Related%20videos/singlelink.mp4" width="240" controls></video> | <video src="https://raw.githubusercontent.com/Muneeb923/Theo_Jensson_based_crawler/refs/heads/main/Related%20videos/doublelink.mp4" width="240" controls></video> | <video src="https://raw.githubusercontent.com/Muneeb923/Theo_Jensson_based_crawler/refs/heads/main/Related%20videos/changingratios.mp4" width="240" controls></video> |
+| <video src="https://github.com/user-attachments/assets/190a8920-726c-4f2a-9dc0-8346d413e88b" width="240" controls></video> | <video src="https://github.com/user-attachments/assets/caafc5d9-3901-40da-a301-d4188aa96f40" width="240" controls></video> | <video src="https://github.com/user-attachments/assets/54d2a02a-c3ca-4765-bae0-1ad55dbf2443" width="240" controls></video> |
 
 ---
 
@@ -35,7 +35,7 @@ To analyze the mechanics before physical fabrication, motion studies were conduc
 Because an 8-legged crawler requires many small and large complex linkages acting simultaneously, the complete mechanism was modeled and assembled in **SolidWorks** to eliminate physical interferences and simulate geometric clearances.
 
 <p align="center">
-  <video src="https://raw.githubusercontent.com/Muneeb923/Theo_Jensson_based_crawler/refs/heads/main/Related%20videos/solidworkssimulation.mp4" width="620" controls></video>
+  <video src="https://github.com/user-attachments/assets/78be86b8-9739-42c4-99f7-a9e6cfe8fd36" width="620" controls></video>
 </p>
 
 ---
@@ -55,7 +55,7 @@ The final operational phase showing the full fabrication journey and real-world 
 ### ⏱️ 30-Second Build Montage
 A quick time-lapse tracking the project transitions from raw acrylic components to a complete walking prototype:
 <p align="center">
-  <video src="https://raw.githubusercontent.com/Muneeb923/Theo_Jensson_based_crawler/refs/heads/main/Related%20videos/30sec.mp4" width="620" controls></video>
+  <video src="https://github.com/user-attachments/assets/25277371-c6c9-4b4d-a21d-3a7962b2be81" width="620" controls></video>
 </p>
 
 ### 🏃 Performance Demos
@@ -63,7 +63,7 @@ Testing the physical crawler's stride synchronization, stability, and speed over
 
 | Stability & Balance Check (Demo 2) | Indoor Tracking (Demo 1) |
 | :---: | :---: |
-| <video src="https://raw.githubusercontent.com/Muneeb923/Theo_Jensson_based_crawler/refs/heads/main/Related%20videos/demo2.mp4" width="380" controls></video> | <video src="https://raw.githubusercontent.com/Muneeb923/Theo_Jensson_based_crawler/refs/heads/main/Related%20videos/demo1.mp4" width="380" controls></video> |
+| <video src="https://github.com/user-attachments/assets/1a2f4ab0-6de3-4817-a4f2-26078263820c" width="380" controls></video> | <video src="https://github.com/user-attachments/assets/c3c63a2a-9060-4e9d-ab2d-ecc05e691cdd" width="380" controls></video> |
 
 ---
 
