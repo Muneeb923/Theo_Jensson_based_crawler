@@ -15,7 +15,7 @@ A comprehensive mechanical engineering project focusing on the kinematic optimiz
 The unique walking gait of this crawler relies completely on the specific link proportions discovered by Theo Jansen himself, famously known as the **"Eleven Holy Numbers"**. These precise geometric ratios are crucial because they transform simple rotational driving motion into a smooth, organic, and flat walking stride.
 
 <p align="center">
-  <img src="Related%20Pics/Theo%20Jansen%20Ratios.png" alt="Theo Jansen Eleven Holy Ratios" width="450">
+  <img src="Related%20Pics/ratios.png" alt="Theo Jansen Eleven Holy Ratios" width="450">
 </p>
 
 ### 🔄 Kinematic Path Analysis
@@ -27,7 +27,7 @@ To analyze the mechanics before physical fabrication, motion studies were conduc
 
 | Single Linkage Path | Two Legs Coordinating | Effect of Altering Ratios |
 | :---: | :---: | :---: |
-| <video src="Related%20videos/Single%20Linkage%20Theo%20Jansen.mp4" width="240" controls></video> | <video src="Related%20videos/Double%20Linkage%20Theo%20Jansen.mp4" width="240" controls></video> | <video src="Related%20videos/Effect%20of%20changing%20ratios.mp4" width="240" controls></video> |
+| <video src="Related%20videos/singlelink.mp4" width="240" controls></video> | <video src="Related%20videos/doublelink.mp4" width="240" controls></video> | <video src="Related%20videos/changingratios.mp4" width="240" controls></video> |
 
 ---
 
@@ -35,7 +35,7 @@ To analyze the mechanics before physical fabrication, motion studies were conduc
 Because an 8-legged crawler requires many small and large complex linkages acting simultaneously, the complete mechanism was modeled and assembled in **SolidWorks** to eliminate physical interferences and simulate geometric clearances.
 
 <p align="center">
-  <video src="Related%20videos/Soliworks%20animation%20of%20Theo%20Jansen%20based%20Crawler.mp4" width="620" controls></video>
+  <video src="Related%20videos/solidworkssimulation.mp4" width="620" controls></video>
 </p>
 
 ---
@@ -45,7 +45,7 @@ The physical model was manufactured out of laser-cut acrylic sheets. Assembling 
 
 | Precision Assembly Bench | Intermediate Linkage Layout | Mechanical Synchronization |
 | :---: | :---: | :---: |
-| <img src="Related%20Pics/Messey%20Worksapce%201.JPG" width="240"> | <img src="Related%20Pics/Messey%20Worksapce%202.JPG" width="240"> | <img src="Related%20Pics/Messey%20Worksapce%203.JPG" width="240"> |
+| <img src="Related%20Pics/mess1.JPG" width="240"> | <img src="Related%20Pics/mess2.JPG" width="240"> | <img src="Related%20Pics/mess3.JPG" width="240"> |
 
 ---
 
@@ -55,20 +55,17 @@ The final operational phase showing the full fabrication journey and real-world 
 ### ⏱️ 30-Second Build Montage
 A quick time-lapse tracking the project transitions from raw acrylic components to a complete walking prototype:
 <p align="center">
-  <video src="Related%20videos/30%20sec%20Build%20Montage.mp4" width="620" controls></video>
+  <video src="Related%20videos/30sec.mp4" width="620" controls></video>
 </p>
-
-
 
 ### 🏃 Performance Demos
 Testing the physical crawler's stride synchronization, stability, and speed over flat surfaces:
 
 | Stability & Balance Check (Demo 2) | Indoor Tracking (Demo 1) |
 | :---: | :---: |
-| <video src="Related%20videos/Demo%202.mp4" width="380" controls></video> | <video src="Related%20videos/Demo%201.mp4" width="380" controls></video> |
+| <video src="Related%20videos/demo2.mp4" width="380" controls></video> | <video src="Related%20videos/demo1.mp4" width="380" controls></video> |
 
 ---
 
-
- ## 📜 License & Attribution
-This project is open-source under the [MIT License](LICENSE).  If you use this data or incorporate it for your project, attribution is required by linking back to [Muneeb923.github.io](https://Muneeb923.github.io).
+## 📜 License & Attribution
+This project is open-source under the [MIT License](LICENSE). If you use this data or incorporate it for your project, attribution is required by linking back to [Muneeb923.github.io](https://Muneeb923.github.io).
