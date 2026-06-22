@@ -63,7 +63,7 @@ Testing the physical crawler's stride synchronization, stability, and speed over
 
 | Stability & Balance Check (Demo 2) | Indoor Tracking (Demo 1) |
 | :---: | :---: |
-| <video src="https://github.com/user-attachments/assets/1a2f4ab0-6de3-4817-a4f2-26078263820c" width="380" controls></video> | <video src="https://github.com/user-attachments/assets/c3c63a2a-9060-4e9d-ab2d-ecc05e691cdd" width="380" controls></video> |
+| <video src="https://github.com/user-attachments/assets/130b0e79-cd9b-4141-91c9-d21a411c76a2" width="380" controls></video> | <video src="https://github.com/user-attachments/assets/46d42e23-fb3c-4a3f-9ea0-733d8f5fe45b" width="380" controls></video> |
 
 ---
 
